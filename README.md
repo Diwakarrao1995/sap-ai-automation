@@ -1,8 +1,17 @@
-# SAP AI Automation
+# SAP AI Automation for Real-Time Business Integration
 
-This project automates SAP operations using AI logic to reduce manual steps and errors in business processes.
+This project integrates AI (voice/text interface) with SAP core systems to simplify workflows and reduce technical barriers.
+
+## Key Features:
+- Chat-based order & billing interface
+- Payment verification via document upload
+- Live inventory and logistics tracking
+
+## Tech Stack:
+- Python, OpenAI, SAP BAPI/OData, Flask
+- UIPath (optional), SAP Gateway
 
 ## Files:
-- `sap_project_plan.pdf`: Complete workflow and implementation steps
-- `automation_scripts.xlsx`: Excel model for task mapping
-- `README.md`: Project summary
+- `sap_ai_automation_plan.pdf`: Full project document
+- `system_architecture_diagram.png`: Architecture overview
+- `README.md`: Summary
